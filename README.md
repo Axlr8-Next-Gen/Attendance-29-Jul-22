@@ -2,6 +2,7 @@
 A repository for taking attendance of members of the club
 
 INSTRUCTIONS
+
 1.git clone this repository
 
 2.create a separate branch with your first name.
